@@ -1,0 +1,9 @@
+{
+	"name": "tiny-scrollbar",
+	"description": "Tiny Scrollbar can be used for scrolling content - custom element scrollbar",
+	"homepage": "https://github.com/bojan88/meteor-tiny-scrollbarr",
+	"author": "bojan88 - bojan88@gmail.com",
+	"version": "0.0.1",
+	"git": "https://github.com/bojan88/meteor-tiny-scrollbarr.git",
+	"packages": {}
+}
